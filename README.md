@@ -2,7 +2,7 @@
 
 My name is João Antônio, a student passionate about technology and programming! :computer: :green_heart:
  
-I'm an undergraduated student of Computer Science at [University of São Paulo](https://www5.usp.br/) (USP) :mortar_board:
+I'm an student of Computer Science at [University of São Paulo](https://www5.usp.br/) (USP) :mortar_board:
 
 If you wanna contact me or just have a look in my social media here you are:
 
