@@ -1,3 +1,5 @@
+ ![Alt Text](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+
 ### Hello you :smile:
 
   My name is João Antônio! I'm Computer Science undergraduated student at University of São Paulo (USP)
