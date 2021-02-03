@@ -1,10 +1,10 @@
 # Hello you <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70" height="50"/>
 
 
-My name is João Antônio, a student passionate about technology and programming!
+My name is João Antônio, a student passionate about technology and programming! :computer: :green_heart:
   
  
-I'm an undergraduated student of Computer Science at [University of São Paulo](https://www5.usp.br/) (USP)
+I'm an undergraduated student of Computer Science at [University of São Paulo](https://www5.usp.br/) (USP) :mortar_board:
 
 If you wanna contact me or just have a look in my social media here you are:
 
