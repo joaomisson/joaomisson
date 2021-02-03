@@ -1,4 +1,4 @@
-### **Hello you** <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70" height="50"/>
+### Hello you <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70" height="50"/>
 
 
 My name is João Antônio, a student passionate about technology and programming!
