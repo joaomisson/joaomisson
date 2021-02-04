@@ -1,8 +1,5 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500" height="320" />
 
-### Hello you
-
-
 <p align="center">
  <br>Hello you<br>
 </p>
