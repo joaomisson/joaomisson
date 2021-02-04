@@ -12,6 +12,6 @@ If you wanna contact me or just have a look in my social media here you are:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="30" height="30"/>](https://www.instagram.com/joao_misson/?hl=pt-br)
 
 
-<a href="https://image.flaticon.com/icons/png/512/174/174857.png">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-misson-milhorim-1b39141b8/">
   <img align="left" alt="João's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
