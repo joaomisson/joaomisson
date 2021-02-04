@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" height="150" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" height="170" />
 
 <h3 align="center">Hello you</h3>
 
