@@ -1,6 +1,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500" height="320" />
 
-### Hello you <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70" height="50"/>
+### Hello you
+
+
+<p align="center">
+ <br>Hello you<br>
+</p>
 
 My name is João Antônio, a student passionate about technology and programming! :computer: :green_heart:
  
